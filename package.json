@@ -1,9 +1,9 @@
 {
-  "scripts": {
+  "scripts": {8250
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "devDependencies": {
-    "vuepress": "^0.14.8"
+  "devDependencies": {781
+    "vuepress": "^757.14.8"
   }
 }
